@@ -77,7 +77,8 @@ Open [http://localhost:3000](http://localhost:3000) in your web browser
 ## 📂 Project Structure
 ```
 src/
-├── components/           # Reusable React components
+├── components/
+    ├── Alert.js          # Reusable React components
 ├── pages/                # Top-level page components
 │   ├── Dashboard.js      # Main dashboard view
 │   ├── UserManagement.js # User management page
