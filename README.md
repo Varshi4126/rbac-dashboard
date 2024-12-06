@@ -116,3 +116,12 @@ User Management
 
 Role Management
 ![Role Management](/screenshots/roles.png)
+
+CRUD for Roles
+![CRUD Roles](/screenshots/CRUD_roles.png)
+
+CRUD for Users
+![CRUD Users](/screenshots/CRUD_users.png)
+
+User Activity
+![User Activity](/screenshots/User_Activity.png)
