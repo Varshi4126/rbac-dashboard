@@ -108,4 +108,11 @@ src/
 
 ## 📸 Screenshots
 
+Dashboard Overview
 ![Dashboard Overview](/screenshots/dashboard.png)
+
+User Management
+![User Management](/screenshots/users.png)
+
+Role Management
+![Role Management](/screenshots/roles.png)
