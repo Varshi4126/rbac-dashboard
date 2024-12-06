@@ -111,17 +111,22 @@ src/
 Dashboard Overview
 ![Dashboard Overview](/screenshots/dashboard.png)
 
+
 User Management
 ![User Management](/screenshots/users.png)
+
 
 Role Management
 ![Role Management](/screenshots/roles.png)
 
+
 CRUD for Roles
 ![CRUD Roles](/screenshots/CRUD_Roles.png)
 
+
 CRUD for Users
 ![CRUD Users](/screenshots/CRUD_Users.png)
+
 
 User Activity
 ![User Activity](/screenshots/User_Activity.png)
