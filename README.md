@@ -128,6 +128,14 @@ Role Management
 ![Role Management](/screenshots/roles.png)
 
 
+Input Validation
+![Role Management](/screenshots/input.png)
+
+
+Search, Sort, and Filter
+![SearchSortFilter](/screenshots/SearchSortFilter.png)
+
+
 CRUD for Roles
 ![CRUD Roles](/screenshots/CRUD_Roles.png)
 
