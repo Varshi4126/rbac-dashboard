@@ -93,7 +93,7 @@ src/
 - Adjust color schemes, breakpoints, and design tokens
 
 ### Permissions
-- Extend permissions and roles as per your organizational requirements
+- Extend permissions and roles as per requirements
 
 ## 🔒 Security Considerations
 
