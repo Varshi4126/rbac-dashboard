@@ -28,9 +28,7 @@ A sophisticated Role-Based Access Control (RBAC) dashboard built with React and 
 - **Smart Search**
   - Global search across all user fields
   - Advanced filtering by role, status, and permissions
-  - Custom sort options for all columns
-  - Saved search preferences
-  - Export filtered results
+  - Custom sort options for columns
 
 ### Dynamic Permissions
 - **Permission Management**
