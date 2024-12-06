@@ -1,16 +1,16 @@
 # Role-Based Access Control (RBAC) Dashboard
 
-## Project Overview
+## 🎯 Project Overview
+A sophisticated Role-Based Access Control (RBAC) dashboard built with React and Tailwind CSS, offering comprehensive user management, role administration, and permission control. This enhanced version includes advanced features like input validation, intelligent search, dynamic filtering, and real-time updates.
 
-This comprehensive Role-Based Access Control (RBAC) dashboard is a powerful web application built with React and Tailwind CSS, designed to provide an intuitive interface for managing users, roles, and permissions efficiently.
-
-## 🌟 Features
+## 🌟 Key Features
 
 ### User Management
 - **User Operations**
   - Seamlessly add, edit, and delete users
   - Assign roles to users with granular control
   - Manage user status (Active/Inactive)
+  - Real-time input validation for user data
 
 ### Role Management
 - **Role Customization**
@@ -23,6 +23,14 @@ This comprehensive Role-Based Access Control (RBAC) dashboard is a powerful web 
   - Responsive design powered by Tailwind CSS
   - Seamless experience across desktop and mobile devices
   - Clean, intuitive user interface
+ 
+### Search & Filter Capabilities
+- **Smart Search**
+  - Global search across all user fields
+  - Advanced filtering by role, status, and permissions
+  - Custom sort options for all columns
+  - Saved search preferences
+  - Export filtered results
 
 ### Dynamic Permissions
 - **Permission Management**
@@ -113,7 +121,7 @@ Dashboard Overview
 
 
 User Management
-![User Management](/screenshots/users.png)
+![User Management](/screenshots/new_users.png)
 
 
 Role Management
